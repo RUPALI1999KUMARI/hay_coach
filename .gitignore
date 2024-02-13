@@ -1,0 +1,12 @@
+node_modules
+
+
+# ENVIRONMENT FILES
+.env
+
+# COMMAND FILES
+nodekillcommand
+commands.txt
+
+# TEST OR DEV FILES
+only_for_my_use

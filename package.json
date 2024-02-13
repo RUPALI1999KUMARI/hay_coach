@@ -1,0 +1,26 @@
+{
+  "name": "node_app_cl_req",
+  "version": "1.0.0",
+  "description": "node app for client partner api requirements",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "ROID",
+  "license": "ISC",
+  "dependencies": {
+    "dayjs": "^1.11.5",
+    "dotenv": "^16.0.2",
+    "express": "^4.18.1",
+    "moment": "^2.29.4",
+    "pg": "^8.8.0",
+    "pg-format": "^1.0.4",
+    "winston": "^3.8.2",
+    "yup": "^1.3.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
